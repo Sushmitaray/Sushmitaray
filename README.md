@@ -1,6 +1,6 @@
-### Hi, I'm Sushmita Ray 👋
+### Hi, I'm Sushmita Ray 👋 ###
 
-# IT Student, Ch. Brahm Prakash Government Engineering College #
+# IT Student, Ch. Brahm Prakash Government Engineering College 
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Web Development
